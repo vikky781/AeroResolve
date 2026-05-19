@@ -67,3 +67,10 @@ npm run dev
 | GET | `/pipeline-status` | Current pipeline state |
 | POST | `/start-monitor` | Start background flight poller |
 | POST | `/stop-monitor` | Stop background poller |
+
+## Contributions
+
+| Role | Name |
+|------|------|
+| Architecture, implementation & all code | Vikhyat Gupta |
+| Ideation & presentation | Gurnoor Singh Bagga, Mohit Choudhary |
